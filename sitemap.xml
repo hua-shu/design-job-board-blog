@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://hua-shu.github.io/design-job-board-blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://hua-shu.github.io/design-job-board-blog/</loc>
+</url>
+<url>
+<loc>https://hua-shu.github.io/design-job-board-blog/test-post.html</loc>
+<lastmod>2025-03-13T18:55:16-04:00</lastmod>
+</url>
+<url>
+<loc>https://hua-shu.github.io/design-job-board-blog/test.html</loc>
+<lastmod>2025-03-13T18:55:51-04:00</lastmod>
+</url>
+</urlset>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>design job board blog</title>
+    <link href="https://hua-shu.github.io/design-job-board-blog/feed.xml" rel="self" />
+    <link href="https://hua-shu.github.io/design-job-board-blog" />
+    <updated>2025-03-13T18:55:51-04:00</updated>
+    <author>
+        <name>Hua Shu</name>
+    </author>
+    <id>https://hua-shu.github.io/design-job-board-blog</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://hua-shu.github.io/design-job-board-blog/test.html"/>
+        <id>https://hua-shu.github.io/design-job-board-blog/test.html</id>
+
+        <updated>2025-03-13T18:55:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://hua-shu.github.io/design-job-board-blog/test-post.html"/>
+        <id>https://hua-shu.github.io/design-job-board-blog/test-post.html</id>
+
+        <updated>2025-03-13T18:55:16-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
