@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.hellodesignjobs.com/blog/sitemap.xml
+Sitemap: https://hellodesignjobs.com/blog/sitemap.xml

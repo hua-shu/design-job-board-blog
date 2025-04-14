@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>design job board blog</title>
-    <link href="https://www.hellodesignjobs.com/blog/feed.xml" rel="self" />
-    <link href="https://www.hellodesignjobs.com/blog" />
+    <link href="https://hellodesignjobs.com/blog/feed.xml" rel="self" />
+    <link href="https://hellodesignjobs.com/blog" />
     <updated>2025-03-19T22:51:12-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
-    <id>https://www.hellodesignjobs.com/blog</id>
+    <id>https://hellodesignjobs.com/blog</id>
 
     <entry>
         <title>Exploring Graphic Design Careers Beyond Tech: Where to Find Jobs in Other Industries</title>
         <author>
             <name>Hua Shu</name>
         </author>
-        <link href="https://www.hellodesignjobs.com/blog/exploring-graphic-design-careers-beyond-tech-where-to-find-jobs-in-other-industries.html"/>
-        <id>https://www.hellodesignjobs.com/blog/exploring-graphic-design-careers-beyond-tech-where-to-find-jobs-in-other-industries.html</id>
-        <media:content url="https://www.hellodesignjobs.com/blog/media/posts/4/how-to-expand-to-other-industry.png" medium="image" />
+        <link href="https://hellodesignjobs.com/blog/exploring-graphic-design-careers-beyond-tech-where-to-find-jobs-in-other-industries.html"/>
+        <id>https://hellodesignjobs.com/blog/exploring-graphic-design-careers-beyond-tech-where-to-find-jobs-in-other-industries.html</id>
+        <media:content url="https://hellodesignjobs.com/blog/media/posts/4/how-to-expand-to-other-industry.png" medium="image" />
 
         <updated>2025-03-19T20:53:09-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.hellodesignjobs.com/blog/media/posts/4/how-to-expand-to-other-industry.png" alt="" />
+                        <img src="https://hellodesignjobs.com/blog/media/posts/4/how-to-expand-to-other-industry.png" alt="" />
                     Graphic design is a versatile skill set that extends far beyond the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.hellodesignjobs.com/blog/media/posts/4/how-to-expand-to-other-industry.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://hellodesignjobs.com/blog/media/posts/4/how-to-expand-to-other-industry.png" class="type:primaryImage" alt="" /></p>
                 <p data-start="175" data-end="492">Graphic design is a versatile skill set that extends far beyond the tech world. While many designers aim for jobs at startups or software companies, plenty of industries rely on strong visual communication. If you're looking to expand your job search, consider exploring industries that value design in unique ways.</p>
 <p data-start="494" data-end="523">In this guide, we’ll cover:</p>
 <ul data-start="524" data-end="667">
@@ -170,20 +170,20 @@
         <author>
             <name>Hua Shu</name>
         </author>
-        <link href="https://www.hellodesignjobs.com/blog/how-to-land-a-ux-design-internship.html"/>
-        <id>https://www.hellodesignjobs.com/blog/how-to-land-a-ux-design-internship.html</id>
-        <media:content url="https://www.hellodesignjobs.com/blog/media/posts/3/how-to-get-Internship.png" medium="image" />
+        <link href="https://hellodesignjobs.com/blog/how-to-land-a-ux-design-internship.html"/>
+        <id>https://hellodesignjobs.com/blog/how-to-land-a-ux-design-internship.html</id>
+        <media:content url="https://hellodesignjobs.com/blog/media/posts/3/how-to-get-Internship.png" medium="image" />
 
         <updated>2025-03-19T19:44:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.hellodesignjobs.com/blog/media/posts/3/how-to-get-Internship.png" alt="how to get Internship" />
+                        <img src="https://hellodesignjobs.com/blog/media/posts/3/how-to-get-Internship.png" alt="how to get Internship" />
                     How to Land a UX Design Internship: A Guide for Students and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.hellodesignjobs.com/blog/media/posts/3/how-to-get-Internship.png" class="type:primaryImage" alt="how to get Internship" /></p>
+                    <p><img src="https://hellodesignjobs.com/blog/media/posts/3/how-to-get-Internship.png" class="type:primaryImage" alt="how to get Internship" /></p>
                 <p data-pm-slice="1 1 []"><strong>How to Land a UX Design Internship: A Guide for Students and Early Professionals</strong></p>
 <p>Breaking into UX design can be exciting but also challenging, especially when you're just starting out. A UX design internship is a great way to gain real-world experience, build a strong portfolio, and kick-start your career in the tech industry. But with so much competition, how can you stand out? This guide will walk you through the key steps to landing your first UX design internship.</p>
 <h3>1. Build a Strong UX Portfolio (Even Without Experience)</h3>
@@ -275,20 +275,20 @@
         <author>
             <name>Hua Shu</name>
         </author>
-        <link href="https://www.hellodesignjobs.com/blog/test-post.html"/>
-        <id>https://www.hellodesignjobs.com/blog/test-post.html</id>
-        <media:content url="https://www.hellodesignjobs.com/blog/media/posts/1/how-to-get-graphic-design-remote-job.png" medium="image" />
+        <link href="https://hellodesignjobs.com/blog/test-post.html"/>
+        <id>https://hellodesignjobs.com/blog/test-post.html</id>
+        <media:content url="https://hellodesignjobs.com/blog/media/posts/1/how-to-get-graphic-design-remote-job.png" medium="image" />
 
         <updated>2025-03-13T18:55:16-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.hellodesignjobs.com/blog/media/posts/1/how-to-get-graphic-design-remote-job.png" alt="how to get graphic design remote job" />
+                        <img src="https://hellodesignjobs.com/blog/media/posts/1/how-to-get-graphic-design-remote-job.png" alt="how to get graphic design remote job" />
                     Remote product design jobs offer incredible opportunities to work on digital experiences,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.hellodesignjobs.com/blog/media/posts/1/how-to-get-graphic-design-remote-job.png" class="type:primaryImage" alt="how to get graphic design remote job" /></p>
+                    <p><img src="https://hellodesignjobs.com/blog/media/posts/1/how-to-get-graphic-design-remote-job.png" class="type:primaryImage" alt="how to get graphic design remote job" /></p>
                 <p>Remote product design jobs offer incredible opportunities to work on digital experiences, collaborate with cross-functional teams, and contribute to innovative products—all from anywhere in the world. However, landing a remote role in product design is competitive. You need to showcase not only your design skills but also your ability to solve user problems and drive business impact. In this post, we'll go over some ways to optimize your application and portfolio to stand out.</p>
 <h3>Optimizing Your Resume for Product Design Jobs in Tech</h3>
 <p>Tech companies look for product designers who understand user experience, research, and business objectives. Your resume should highlight these aspects effectively:</p>
@@ -360,20 +360,20 @@
         <author>
             <name>Hua Shu</name>
         </author>
-        <link href="https://www.hellodesignjobs.com/blog/test.html"/>
-        <id>https://www.hellodesignjobs.com/blog/test.html</id>
-        <media:content url="https://www.hellodesignjobs.com/blog/media/posts/2/how-to-land-product-dseign-roles.png" medium="image" />
+        <link href="https://hellodesignjobs.com/blog/test.html"/>
+        <id>https://hellodesignjobs.com/blog/test.html</id>
+        <media:content url="https://hellodesignjobs.com/blog/media/posts/2/how-to-land-product-dseign-roles.png" medium="image" />
 
         <updated>2025-03-11T18:55:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.hellodesignjobs.com/blog/media/posts/2/how-to-land-product-dseign-roles.png" alt="​​How to Secure a Remote Graphic Design Job in Tech" />
+                        <img src="https://hellodesignjobs.com/blog/media/posts/2/how-to-land-product-dseign-roles.png" alt="​​How to Secure a Remote Graphic Design Job in Tech" />
                     Remote graphic design jobs offer the perfect blend of creativity, flexibility, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.hellodesignjobs.com/blog/media/posts/2/how-to-land-product-dseign-roles.png" class="type:primaryImage" alt="​​How to Secure a Remote Graphic Design Job in Tech" /></p>
+                    <p><img src="https://hellodesignjobs.com/blog/media/posts/2/how-to-land-product-dseign-roles.png" class="type:primaryImage" alt="​​How to Secure a Remote Graphic Design Job in Tech" /></p>
                 <p><span style="font-weight: 400;">Remote graphic design jobs offer the perfect blend of creativity, flexibility, and lucrative opportunities, especially within the tech industry. However, the job market is tough and the competition is fierce. Many companies also have return to office orders, causing the availblity of remote roles to be more scarce. </span><span style="font-weight: 400;">If you want to land a remote role at a tech company, your resume and portfolio must be optimized for success. This guide will help you craft an application that stands out, leveraging industry best practices and ATS keyword-friendly strategies.</span></p>
 <h3><strong>Optimizing Your Resume for Remote Graphic Design Jobs in Tech</strong></h3>
 <p><span style="font-weight: 400;">Tech companies value results, problem-solving, and adaptability. Your resume should reflect these qualities with a clean, structured format and data-backed achievements. Here’s what to focus on:</span></p>
